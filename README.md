@@ -1,5 +1,5 @@
 ## 📁 Portfolio Overview
-
+### Main objectice of this projects is to learn to implement various ML algorithm 
 ### 🔍 Classification Projects
 
 - **Bank Loan Prediction**  
