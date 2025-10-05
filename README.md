@@ -10,20 +10,19 @@ This portfolio showcases projects focused on implementing various machine learni
 Predicts loan approval status based on customer financial and demographic data.  
 - **Algorithm:** Random Forest  
 - **Accuracy:** 99.1%  
-- **Highlights:** Feature importance analysis, precision-recall curve, confusion matrix
+- **Highlights:** Feature importance analysis, confusion matrix
 
 ### Crop Recommendation System
 Recommends crops to farmers based on soil nutrient levels and weather conditions.  
 - **Algorithm:** Random Forest  
 - **Accuracy:** 99.09%  
-- **Highlights:** Real-world agricultural application, analysis of environmental features
+- **Highlights:** analysis of environmental features
 
 ### Machine Failure Prediction
 Predicts equipment failure using real-time sensor data to support preventive maintenance.  
 - **Algorithm:** Random Forest  
 - **Accuracy:** 98.47%  
-- **Highlights:** Handling of imbalanced data, insights for maintenance cost reduction
-
+- **Highlights:** Handling of imbalanced data
 ---
 
 ## Regression Projects
@@ -45,7 +44,7 @@ Predicts university QS rankings based on research output, faculty ratios, and ac
 ### Insurance Prediction
 Predicts student final scores based on study time, parental education, and school support.  
 - **Algorithm:** Linear Regression and its variants  
-- **Highlights:** Exploratory data analysis, heatmap visualizations, regression diagnostics
+- **Highlights:** Exploratory data analysis, heatmap visualizations, regression 
 
 ---
 
@@ -102,3 +101,4 @@ Suggests music to users based on their listening preferences using collaborative
 - Developing accurate regression and classification models  
 - Building recommender systems using similarity-based approaches  
 - Communicating insights effectively through visualizations and dashboards
+
